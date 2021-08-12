@@ -22,3 +22,4 @@ function calc() {
             saida.innerHTML += `<p>OPÇÃO INVÁLIDA! Você digitou ${n1} e ${n2}, mas não sei o que fazer com eles. </p>`
             break
     }
+}
